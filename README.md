@@ -1,5 +1,5 @@
 # chat_on_GTK_with_TLS_connection
-Simple chat on C with GTK3 with TLS connection
+Simple chat on C with GTK3 and TLS connection
 ### Installation:
 >**1. brew install gtk+3**  
 >**2. git clone**  
